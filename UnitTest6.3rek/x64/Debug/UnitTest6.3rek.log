@@ -1,0 +1,6 @@
+﻿  pch.cpp
+  UnitTest6.3rek.cpp
+D:\project\LB6.3rek\LB6.3rek\main.cpp(36,1): warning C4715: 'FindMin': not all control paths return a value
+D:\project\LB6.3rek\LB6.3rek\main.cpp(70,1): warning C4715: 'SecondFindMin<int>': not all control paths return a value
+     Creating library D:\project\LB6.3rek\x64\Debug\UnitTest6.3rek.lib and object D:\project\LB6.3rek\x64\Debug\UnitTest6.3rek.exp
+  UnitTest6.3rek.vcxproj -> D:\project\LB6.3rek\x64\Debug\UnitTest6.3rek.dll
